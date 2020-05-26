@@ -5,5 +5,4 @@
         echo "qyqlx";
         echo "gcubq";
         echo "jywgy";
-        echo "syhbq";
 ?>
